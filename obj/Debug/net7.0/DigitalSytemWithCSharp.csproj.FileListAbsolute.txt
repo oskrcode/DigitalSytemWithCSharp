@@ -1,0 +1,15 @@
+/home/oskr/Digital/DigitalSytemWithCSharp/bin/Debug/net7.0/DigitalSytemWithCSharp
+/home/oskr/Digital/DigitalSytemWithCSharp/bin/Debug/net7.0/DigitalSytemWithCSharp.deps.json
+/home/oskr/Digital/DigitalSytemWithCSharp/bin/Debug/net7.0/DigitalSytemWithCSharp.runtimeconfig.json
+/home/oskr/Digital/DigitalSytemWithCSharp/bin/Debug/net7.0/DigitalSytemWithCSharp.dll
+/home/oskr/Digital/DigitalSytemWithCSharp/bin/Debug/net7.0/DigitalSytemWithCSharp.pdb
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.csproj.AssemblyReference.cache
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.AssemblyInfoInputs.cache
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.AssemblyInfo.cs
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.csproj.CoreCompileInputs.cache
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.dll
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/refint/DigitalSytemWithCSharp.dll
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.pdb
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/DigitalSytemWithCSharp.genruntimeconfig.cache
+/home/oskr/Digital/DigitalSytemWithCSharp/obj/Debug/net7.0/ref/DigitalSytemWithCSharp.dll
